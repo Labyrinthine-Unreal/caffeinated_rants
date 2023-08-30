@@ -1,0 +1,29 @@
+ToDO: @egeckr *Brainteaser* 
+
+The Basics
+
+We will be creating our own machine learning price action API on ethereum and tron
+
+!pip install numpy 
+!pip install web3
+!pip install faunadb
+!pip install tronpy
+!pip install scikit-learn
+
+
+import numpy 
+import web3.py 
+import faunadb
+import tronpy
+import sklearn
+
+
+>Create random dataset with floats 
+>Implement a scikit-learn logistic regression algorithm
+>create a local web3 environment using web3.py 
+>using the contract variables create a buy/sell strategic game based on a feature of data (High price, Low price) will provide the data feed. 
+
+> Goal: Store buy,sell and price forecasts in faunadb 
+
+
+
